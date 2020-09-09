@@ -1,4 +1,4 @@
-module golang.org/x/crypto
+module github.com/MengjieGuo/crypto
 
 go 1.11
 
